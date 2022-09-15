@@ -15,7 +15,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "2",
@@ -32,7 +34,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "3",
@@ -49,7 +53,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "4",
@@ -66,7 +72,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "5",
@@ -83,7 +91,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "6",
@@ -100,7 +110,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "7",
@@ -117,7 +129,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "8",
@@ -134,7 +148,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "9",
@@ -151,7 +167,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "10",
@@ -168,7 +186,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "11",
@@ -185,7 +205,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "12",
@@ -202,7 +224,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "13",
@@ -219,7 +243,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "14",
@@ -236,7 +262,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "15",
@@ -253,7 +281,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "16",
@@ -270,7 +300,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "17",
@@ -287,7 +319,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "18",
@@ -304,7 +338,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "19",
@@ -321,7 +357,9 @@
       "TIEMPORIVAL": "1",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "20",
@@ -338,7 +376,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "21",
@@ -355,7 +395,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "22",
@@ -372,7 +414,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "23",
@@ -389,7 +433,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "24",
@@ -406,7 +452,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "25",
@@ -423,7 +471,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "26",
@@ -440,7 +490,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "27",
@@ -457,7 +509,9 @@
       "TIEMPORIVAL": "1",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "28",
@@ -474,7 +528,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "29",
@@ -491,7 +547,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "30",
@@ -508,7 +566,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "31",
@@ -525,7 +585,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "32",
@@ -542,7 +604,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "33",
@@ -559,7 +623,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "34",
@@ -576,7 +642,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "35",
@@ -593,7 +661,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "36",
@@ -610,7 +680,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "37",
@@ -627,7 +699,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "38",
@@ -644,7 +718,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "39",
@@ -661,7 +737,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "1",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "40",
@@ -678,7 +756,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "41",
@@ -695,7 +775,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "42",
@@ -712,7 +794,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "43",
@@ -729,7 +813,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "44",
@@ -746,7 +832,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "45",
@@ -763,7 +851,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "46",
@@ -780,7 +870,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "47",
@@ -797,7 +889,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "48",
@@ -814,7 +908,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "49",
@@ -831,7 +927,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "50",
@@ -848,7 +946,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "51",
@@ -865,7 +965,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "52",
@@ -882,7 +984,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "53",
@@ -899,7 +1003,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "54",
@@ -916,7 +1022,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "55",
@@ -933,7 +1041,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "60",
@@ -950,7 +1060,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "61",
@@ -967,7 +1079,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "62",
@@ -984,7 +1098,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "63",
@@ -1001,7 +1117,9 @@
       "TIEMPORIVAL": "1",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "64",
@@ -1018,7 +1136,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "65",
@@ -1035,7 +1155,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "66",
@@ -1052,7 +1174,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "67",
@@ -1069,7 +1193,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "68",
@@ -1086,7 +1212,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "69",
@@ -1103,7 +1231,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "70",
@@ -1120,7 +1250,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "71",
@@ -1137,7 +1269,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "72",
@@ -1154,7 +1288,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "73",
@@ -1171,7 +1307,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "74",
@@ -1188,7 +1326,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "75",
@@ -1205,7 +1345,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "76",
@@ -1222,7 +1364,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "77",
@@ -1239,7 +1383,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "78",
@@ -1256,7 +1402,9 @@
       "TIEMPORIVAL": "1",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "79",
@@ -1273,7 +1421,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "80",
@@ -1290,7 +1440,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "81",
@@ -1307,7 +1459,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "82",
@@ -1324,7 +1478,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "83",
@@ -1341,7 +1497,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "84",
@@ -1358,7 +1516,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "85",
@@ -1375,7 +1535,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "86",
@@ -1392,7 +1554,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "87",
@@ -1409,7 +1573,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "88",
@@ -1426,7 +1592,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "89",
@@ -1443,7 +1611,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "90",
@@ -1460,7 +1630,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "91",
@@ -1477,7 +1649,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "1"
     },
     {
       "ID": "92",
@@ -1494,7 +1668,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "93",
@@ -1511,7 +1687,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "94",
@@ -1528,7 +1706,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "95",
@@ -1545,7 +1725,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "2",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "96",
@@ -1562,7 +1744,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "97",
@@ -1579,7 +1763,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "98",
@@ -1596,7 +1782,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "99",
@@ -1613,7 +1801,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "100",
@@ -1630,7 +1820,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "101",
@@ -1647,7 +1839,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "102",
@@ -1664,7 +1858,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "103",
@@ -1681,7 +1877,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "104",
@@ -1698,7 +1896,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "105",
@@ -1715,7 +1915,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "106",
@@ -1732,7 +1934,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "107",
@@ -1749,7 +1953,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "108",
@@ -1766,7 +1972,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "109",
@@ -1783,7 +1991,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "110",
@@ -1800,7 +2010,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "111",
@@ -1817,7 +2029,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "112",
@@ -1834,7 +2048,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "113",
@@ -1851,7 +2067,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "114",
@@ -1868,7 +2086,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "115",
@@ -1885,7 +2105,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "116",
@@ -1902,7 +2124,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "117",
@@ -1919,7 +2143,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "118",
@@ -1936,7 +2162,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "119",
@@ -1953,7 +2181,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "120",
@@ -1970,7 +2200,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "121",
@@ -1987,7 +2219,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "122",
@@ -2004,7 +2238,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "123",
@@ -2021,7 +2257,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "124",
@@ -2038,7 +2276,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "125",
@@ -2055,7 +2295,9 @@
       "TIEMPORIVAL": "1",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "126",
@@ -2072,7 +2314,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "127",
@@ -2089,7 +2333,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "128",
@@ -2106,7 +2352,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "129",
@@ -2123,7 +2371,9 @@
       "TIEMPORIVAL": "1",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "130",
@@ -2140,7 +2390,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "131",
@@ -2157,7 +2409,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "132",
@@ -2174,7 +2428,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "133",
@@ -2191,7 +2447,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "134",
@@ -2208,7 +2466,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "135",
@@ -2225,7 +2485,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "136",
@@ -2242,7 +2504,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "137",
@@ -2259,7 +2523,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "138",
@@ -2276,7 +2542,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "139",
@@ -2293,7 +2561,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "140",
@@ -2310,7 +2580,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "141",
@@ -2327,7 +2599,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "142",
@@ -2344,7 +2618,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "143",
@@ -2361,7 +2637,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "144",
@@ -2378,7 +2656,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "145",
@@ -2395,7 +2675,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "146",
@@ -2412,7 +2694,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "147",
@@ -2429,7 +2713,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "148",
@@ -2446,7 +2732,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     },
     {
       "ID": "149",
@@ -2463,7 +2751,9 @@
       "TIEMPORIVAL": "0",
       "SETSRIVAL": "0",
       "SET": "3",
-      "JORNADA": "1"
+      "JORNADA": "1",
+      "SETS": "3",
+      "OBLIGATORIO": "0"
     }
   ]
 }
