@@ -30,7 +30,7 @@ def readEmails():
         else:
             flow = InstalledAppFlow.from_client_secrets_file(               
                 # your creds file here. Please create json file as here https://cloud.google.com/docs/authentication/getting-started
-                'client_secret_795606663844-racsft1kbh9aov5lr4j6v4mrs6gkrto5.apps.googleusercontent.com.json', SCOPES)
+                'client_secret.json', SCOPES)
             creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
         with open('token.json', 'w') as token:
