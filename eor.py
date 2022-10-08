@@ -68,12 +68,25 @@ def readEmails():
                     with open(aInfo['filename'], 'wb') as f:
                         f.write(message_bytes)
                     # TODO: convert xlsx to json
-                    excel_data_df = pandas.read_excel(aInfo['filename'], sheet_name='Hoja1')
-                    json_str = excel_data_df.to_json()
+                    try:
+                        excel_data_df = pandas.read_excel(aInfo['filename'], sheet_name='Hoja1')
+                    except Exception as error:
+                        if ("Worksheet named 'Hoja1' not found" in str(error)):
+                            try:
+                                excel_data_df = pandas.read_excel(aInfo['filename'], sheet_name='Sheet1')
+                            except Exception as error:
+                                print(f'An error ocurred: {error}')
+                                exit()
+                        else:
+                            print(f'An error occurred: {error}')
+                            exit()
+
+                    json_str = excel_data_df.to_json(orient='records')
 
                     print('Excel Sheet to JSON:\n', json_str)
 
     except Exception as error:
         print(f'An error occurred: {error}')
-
+        exit()
+                
 readEmails()
