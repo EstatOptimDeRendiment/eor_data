@@ -2,7 +2,7 @@
   "Hoja1": [
     {
       "ID": "1",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -14,12 +14,12 @@
       "PUNTOSCVB": "1",
       "PUNTOSRIVAL": "0",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "2",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -31,12 +31,12 @@
       "PUNTOSCVB": "1",
       "PUNTOSRIVAL": "1",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "3",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -48,12 +48,12 @@
       "PUNTOSCVB": "1",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "4",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -65,12 +65,12 @@
       "PUNTOSCVB": "1",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "5",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -82,12 +82,12 @@
       "PUNTOSCVB": "2",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "6",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -99,12 +99,12 @@
       "PUNTOSCVB": "2",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "7",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -116,12 +116,12 @@
       "PUNTOSCVB": "3",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "8",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -133,12 +133,12 @@
       "PUNTOSCVB": "3",
       "PUNTOSRIVAL": "5",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "9",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -150,12 +150,12 @@
       "PUNTOSCVB": "4",
       "PUNTOSRIVAL": "5",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "10",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -167,12 +167,12 @@
       "PUNTOSCVB": "5",
       "PUNTOSRIVAL": "5",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "11",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -184,12 +184,12 @@
       "PUNTOSCVB": "5",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "12",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -201,12 +201,12 @@
       "PUNTOSCVB": "6",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "13",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -218,12 +218,12 @@
       "PUNTOSCVB": "7",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "14",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -235,12 +235,12 @@
       "PUNTOSCVB": "8",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "15",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -252,12 +252,12 @@
       "PUNTOSCVB": "9",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "16",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -269,12 +269,12 @@
       "PUNTOSCVB": "10",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "1",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "17",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -286,12 +286,12 @@
       "PUNTOSCVB": "10",
       "PUNTOSRIVAL": "7",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "18",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -303,12 +303,12 @@
       "PUNTOSCVB": "11",
       "PUNTOSRIVAL": "7",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "19",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -320,12 +320,12 @@
       "PUNTOSCVB": "11",
       "PUNTOSRIVAL": "8",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "20",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -337,12 +337,12 @@
       "PUNTOSCVB": "12",
       "PUNTOSRIVAL": "8",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "21",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -354,12 +354,12 @@
       "PUNTOSCVB": "12",
       "PUNTOSRIVAL": "9",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "22",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -371,12 +371,12 @@
       "PUNTOSCVB": "13",
       "PUNTOSRIVAL": "9",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "23",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -388,12 +388,12 @@
       "PUNTOSCVB": "14",
       "PUNTOSRIVAL": "9",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "24",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -405,12 +405,12 @@
       "PUNTOSCVB": "14",
       "PUNTOSRIVAL": "10",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "25",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -422,12 +422,12 @@
       "PUNTOSCVB": "15",
       "PUNTOSRIVAL": "10",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "26",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -439,12 +439,12 @@
       "PUNTOSCVB": "16",
       "PUNTOSRIVAL": "10",
       "TIEMPORIVAL": "1",
-      "CAMBIORIVAL": "2",
+      "CAMBIO RIVAL": "2",
       "SETRIVAL": "0"
     },
     {
       "ID": "27",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -456,12 +456,12 @@
       "PUNTOSCVB": "16",
       "PUNTOSRIVAL": "11",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "28",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -473,12 +473,12 @@
       "PUNTOSCVB": "17",
       "PUNTOSRIVAL": "11",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "29",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -490,12 +490,12 @@
       "PUNTOSCVB": "18",
       "PUNTOSRIVAL": "11",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "30",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -507,12 +507,12 @@
       "PUNTOSCVB": "18",
       "PUNTOSRIVAL": "12",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "31",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -524,12 +524,12 @@
       "PUNTOSCVB": "18",
       "PUNTOSRIVAL": "13",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "32",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -541,12 +541,12 @@
       "PUNTOSCVB": "19",
       "PUNTOSRIVAL": "13",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "33",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -558,12 +558,12 @@
       "PUNTOSCVB": "20",
       "PUNTOSRIVAL": "13",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "34",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -575,12 +575,12 @@
       "PUNTOSCVB": "21",
       "PUNTOSRIVAL": "13",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "35",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -592,12 +592,12 @@
       "PUNTOSCVB": "22",
       "PUNTOSRIVAL": "13",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "1",
+      "CAMBIO RIVAL": "1",
       "SETRIVAL": "0"
     },
     {
       "ID": "36",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -609,12 +609,12 @@
       "PUNTOSCVB": "23",
       "PUNTOSRIVAL": "13",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "37",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -626,12 +626,12 @@
       "PUNTOSCVB": "23",
       "PUNTOSRIVAL": "14",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "38",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -643,12 +643,12 @@
       "PUNTOSCVB": "23",
       "PUNTOSRIVAL": "15",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "39",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -660,12 +660,12 @@
       "PUNTOSCVB": "24",
       "PUNTOSRIVAL": "15",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "40",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -677,12 +677,12 @@
       "PUNTOSCVB": "25",
       "PUNTOSRIVAL": "15",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "41",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -694,12 +694,12 @@
       "PUNTOSCVB": "0",
       "PUNTOSRIVAL": "1",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "42",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -711,12 +711,12 @@
       "PUNTOSCVB": "0",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "43",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -728,12 +728,12 @@
       "PUNTOSCVB": "1",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "44",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -745,12 +745,12 @@
       "PUNTOSCVB": "2",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "45",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -762,12 +762,12 @@
       "PUNTOSCVB": "2",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "46",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -779,12 +779,12 @@
       "PUNTOSCVB": "3",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "47",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -796,12 +796,12 @@
       "PUNTOSCVB": "3",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "48",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -813,12 +813,12 @@
       "PUNTOSCVB": "4",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "49",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -830,12 +830,12 @@
       "PUNTOSCVB": "5",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "50",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -847,12 +847,12 @@
       "PUNTOSCVB": "6",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "51",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -864,12 +864,12 @@
       "PUNTOSCVB": "7",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "52",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -881,12 +881,12 @@
       "PUNTOSCVB": "7",
       "PUNTOSRIVAL": "5",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "53",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -898,12 +898,12 @@
       "PUNTOSCVB": "8",
       "PUNTOSRIVAL": "5",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "54",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -915,12 +915,12 @@
       "PUNTOSCVB": "8",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "55",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -932,12 +932,12 @@
       "PUNTOSCVB": "8",
       "PUNTOSRIVAL": "7",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "56",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -949,12 +949,12 @@
       "PUNTOSCVB": "9",
       "PUNTOSRIVAL": "7",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "57",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -966,12 +966,12 @@
       "PUNTOSCVB": "9",
       "PUNTOSRIVAL": "8",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "58",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -983,12 +983,12 @@
       "PUNTOSCVB": "10",
       "PUNTOSRIVAL": "8",
       "TIEMPORIVAL": "1",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "59",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1000,12 +1000,12 @@
       "PUNTOSCVB": "11",
       "PUNTOSRIVAL": "8",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "60",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1017,12 +1017,12 @@
       "PUNTOSCVB": "11",
       "PUNTOSRIVAL": "9",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "61",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1034,12 +1034,12 @@
       "PUNTOSCVB": "12",
       "PUNTOSRIVAL": "9",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "62",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1051,12 +1051,12 @@
       "PUNTOSCVB": "12",
       "PUNTOSRIVAL": "10",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "63",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1068,12 +1068,12 @@
       "PUNTOSCVB": "13",
       "PUNTOSRIVAL": "10",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "64",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1085,12 +1085,12 @@
       "PUNTOSCVB": "14",
       "PUNTOSRIVAL": "10",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "65",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1102,12 +1102,12 @@
       "PUNTOSCVB": "15",
       "PUNTOSRIVAL": "10",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "66",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1119,12 +1119,12 @@
       "PUNTOSCVB": "15",
       "PUNTOSRIVAL": "11",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "1",
+      "CAMBIO RIVAL": "1",
       "SETRIVAL": "0"
     },
     {
       "ID": "67",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1136,12 +1136,12 @@
       "PUNTOSCVB": "16",
       "PUNTOSRIVAL": "11",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "68",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1153,12 +1153,12 @@
       "PUNTOSCVB": "16",
       "PUNTOSRIVAL": "12",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "69",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1170,12 +1170,12 @@
       "PUNTOSCVB": "17",
       "PUNTOSRIVAL": "12",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "1",
+      "CAMBIO RIVAL": "1",
       "SETRIVAL": "0"
     },
     {
       "ID": "70",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1187,12 +1187,12 @@
       "PUNTOSCVB": "18",
       "PUNTOSRIVAL": "12",
       "TIEMPORIVAL": "1",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "71",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1204,12 +1204,12 @@
       "PUNTOSCVB": "18",
       "PUNTOSRIVAL": "13",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "72",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1221,12 +1221,12 @@
       "PUNTOSCVB": "19",
       "PUNTOSRIVAL": "13",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "73",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1238,12 +1238,12 @@
       "PUNTOSCVB": "19",
       "PUNTOSRIVAL": "14",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "1",
+      "CAMBIO RIVAL": "1",
       "SETRIVAL": "0"
     },
     {
       "ID": "74",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1255,12 +1255,12 @@
       "PUNTOSCVB": "19",
       "PUNTOSRIVAL": "15",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "75",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1272,12 +1272,12 @@
       "PUNTOSCVB": "19",
       "PUNTOSRIVAL": "16",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "76",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1289,12 +1289,12 @@
       "PUNTOSCVB": "20",
       "PUNTOSRIVAL": "16",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "77",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1306,12 +1306,12 @@
       "PUNTOSCVB": "20",
       "PUNTOSRIVAL": "17",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "78",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1323,12 +1323,12 @@
       "PUNTOSCVB": "21",
       "PUNTOSRIVAL": "17",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "79",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1340,12 +1340,12 @@
       "PUNTOSCVB": "22",
       "PUNTOSRIVAL": "17",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "80",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1357,12 +1357,12 @@
       "PUNTOSCVB": "23",
       "PUNTOSRIVAL": "17",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "81",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1374,12 +1374,12 @@
       "PUNTOSCVB": "24",
       "PUNTOSRIVAL": "17",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "82",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1391,12 +1391,12 @@
       "PUNTOSCVB": "25",
       "PUNTOSRIVAL": "17",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "83",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1408,12 +1408,12 @@
       "PUNTOSCVB": "1",
       "PUNTOSRIVAL": "0",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "84",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1425,12 +1425,12 @@
       "PUNTOSCVB": "2",
       "PUNTOSRIVAL": "0",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "85",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1442,12 +1442,12 @@
       "PUNTOSCVB": "3",
       "PUNTOSRIVAL": "0",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "1",
+      "CAMBIO RIVAL": "1",
       "SETRIVAL": "0"
     },
     {
       "ID": "86",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1459,12 +1459,12 @@
       "PUNTOSCVB": "4",
       "PUNTOSRIVAL": "0",
       "TIEMPORIVAL": "1",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "87",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1476,12 +1476,12 @@
       "PUNTOSCVB": "4",
       "PUNTOSRIVAL": "1",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "88",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1493,12 +1493,12 @@
       "PUNTOSCVB": "5",
       "PUNTOSRIVAL": "1",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "89",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1510,12 +1510,12 @@
       "PUNTOSCVB": "5",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "90",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1527,12 +1527,12 @@
       "PUNTOSCVB": "6",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "91",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1544,12 +1544,12 @@
       "PUNTOSCVB": "7",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "92",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1561,12 +1561,12 @@
       "PUNTOSCVB": "8",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "1",
+      "CAMBIO RIVAL": "1",
       "SETRIVAL": "0"
     },
     {
       "ID": "93",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1578,12 +1578,12 @@
       "PUNTOSCVB": "9",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "1",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "94",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1595,12 +1595,12 @@
       "PUNTOSCVB": "10",
       "PUNTOSRIVAL": "2",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "95",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1612,12 +1612,12 @@
       "PUNTOSCVB": "10",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "96",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1629,12 +1629,12 @@
       "PUNTOSCVB": "11",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "97",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1646,12 +1646,12 @@
       "PUNTOSCVB": "12",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "98",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1663,12 +1663,12 @@
       "PUNTOSCVB": "13",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "99",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1680,12 +1680,12 @@
       "PUNTOSCVB": "14",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "100",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1697,12 +1697,12 @@
       "PUNTOSCVB": "15",
       "PUNTOSRIVAL": "3",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "1",
+      "CAMBIO RIVAL": "1",
       "SETRIVAL": "0"
     },
     {
       "ID": "101",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1714,12 +1714,12 @@
       "PUNTOSCVB": "15",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "102",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1731,12 +1731,12 @@
       "PUNTOSCVB": "16",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "103",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1748,12 +1748,12 @@
       "PUNTOSCVB": "17",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "104",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1765,12 +1765,12 @@
       "PUNTOSCVB": "18",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "105",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1782,12 +1782,12 @@
       "PUNTOSCVB": "19",
       "PUNTOSRIVAL": "4",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "106",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1799,12 +1799,12 @@
       "PUNTOSCVB": "19",
       "PUNTOSRIVAL": "5",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "107",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1816,12 +1816,12 @@
       "PUNTOSCVB": "20",
       "PUNTOSRIVAL": "5",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "108",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1833,12 +1833,12 @@
       "PUNTOSCVB": "20",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "109",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1850,12 +1850,12 @@
       "PUNTOSCVB": "21",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "110",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1867,12 +1867,12 @@
       "PUNTOSCVB": "22",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "111",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1884,12 +1884,12 @@
       "PUNTOSCVB": "23",
       "PUNTOSRIVAL": "6",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "112",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1901,12 +1901,12 @@
       "PUNTOSCVB": "23",
       "PUNTOSRIVAL": "7",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "113",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1918,12 +1918,12 @@
       "PUNTOSCVB": "24",
       "PUNTOSRIVAL": "7",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "114",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1935,12 +1935,12 @@
       "PUNTOSCVB": "24",
       "PUNTOSRIVAL": "8",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "115",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1952,12 +1952,12 @@
       "PUNTOSCVB": "24",
       "PUNTOSRIVAL": "9",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     },
     {
       "ID": "116",
-      "COMPETICION": "SF2",
+      "COMPETICIÓN": "SF2",
       "JORNADA": "2",
       "FECHA": "10/15/2022",
       "CVBLOCAL": "0",
@@ -1969,7 +1969,7 @@
       "PUNTOSCVB": "25",
       "PUNTOSRIVAL": "9",
       "TIEMPORIVAL": "0",
-      "CAMBIORIVAL": "0",
+      "CAMBIO RIVAL": "0",
       "SETRIVAL": "0"
     }
   ]
